@@ -14,5 +14,8 @@ local.properties
 *.keystore
 *.pk8
 
+# Packaged source archives built for distribution
+dist/
+
 # macOS
 .DS_Store
