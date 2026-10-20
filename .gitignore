@@ -1,0 +1,18 @@
+# Build outputs
+*.iml
+.gradle/
+build/
+local.properties
+.cxx/
+
+# Local tooling I used for the reference analysis and the pure-Kotlin check
+.toolchain/
+.tools-venv/
+
+# Signing material never belongs in the repo
+*.jks
+*.keystore
+*.pk8
+
+# macOS
+.DS_Store

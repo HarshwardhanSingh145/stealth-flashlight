@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flashlight</string>
+
+    <string name="torch_on">Torch on</string>
+    <string name="torch_off">Torch off</string>
+    <string name="no_flash_body">This device has no controllable rear LED. The switch stays disabled.</string>
+    <string name="torch_conflict">Another app is using the camera. Close it and try again.</string>
+    <string name="torch_disabled">The camera is disabled on this device, so the LED cannot be used.</string>
+    <string name="torch_permission">Camera access was blocked by a policy on this device.</string>
+    <string name="torch_failed">The flashlight could not be switched. Try again.</string>
+
+    <string name="accessibility_unlock">Open private area</string>
+    <string name="unlock_hint">Hold the switch for 5 seconds to open your private area</string>
+
+    <string name="pin_title">Enter your PIN</string>
+    <string name="pin_subtitle">4 to 12 digits. Stored on this device only.</string>
+    <string name="pin_setup_title">Create a PIN</string>
+    <string name="pin_confirm_title">Confirm your PIN</string>
+    <string name="pin_error">Wrong PIN</string>
+    <string name="pin_too_short">Use at least 4 digits</string>
+    <string name="pin_mismatch">PINs did not match. Start again.</string>
+    <string name="pin_locked">Too many attempts. Wait %1$d s.</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="biometric_unlock">Use fingerprint</string>
+    <string name="biometric_title">Unlock private area</string>
+    <string name="biometric_subtitle">Confirm your identity to continue</string>
+    <string name="biometric_negative">Use PIN</string>
+    <string name="biometric_unavailable">Biometrics unavailable on this device</string>
+
+    <string name="back_to_flashlight">Back to flashlight</string>
+    <string name="vault_title">Private apps</string>
+    <string name="vault_search">Search apps</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_recent">Recently added</string>
+    <string name="private_list">In your list</string>
+    <string name="all_apps">All apps</string>
+    <string name="launch">Open</string>
+    <string name="status_private">In your private list · tap to open</string>
+    <string name="status_public">Not in your list</string>
+    <string name="vault_empty">Add apps here to launch them from a list that only you can reach.</string>
+    <string name="no_matches">Nothing matches that search.</string>
+    <string name="loading_apps">Loading apps…</string>
+    <string name="app_unavailable">That app can no longer be opened. It was removed from your list.</string>
+
+    <string name="settings">Settings</string>
+    <string name="settings_biometric">Require biometric unlock</string>
+    <string name="settings_show_system">Show system apps</string>
+    <string name="settings_change_pin">Change PIN</string>
+    <string name="settings_reset">Reset private area</string>
+    <string name="settings_reset_confirm">This deletes your PIN and private app list. Continue?</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="explanation">How this works</string>
+    <string name="explanation_body">This is a private launcher: it opens the apps you pick from a list behind your PIN. Android does not let an ordinary app remove another app\'s icon from your home screen or app drawer, so removing an app here only takes it off this list — it still appears everywhere else on the phone. To actually hide icons you would have to make this app the default launcher, or use a managed device profile. Nothing is uploaded: the app list is read locally and only your chosen package names are stored, encrypted on this device.</string>
+</resources>

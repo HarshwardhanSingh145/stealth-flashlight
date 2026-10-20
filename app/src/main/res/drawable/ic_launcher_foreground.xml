@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A torch beam over a pill switch, echoing the app's own UI. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M54,22m-9,0a9,9 0 1,0 18,0a9,9 0 1,0 -18,0" />
+    <path
+        android:fillColor="#7C2FD1"
+        android:pathData="M44,34 L64,34 L70,58 L38,58 Z" />
+    <path
+        android:fillColor="#3F3F46"
+        android:pathData="M40,62 h28 a4,4 0 0,1 4,4 v14 a4,4 0 0,1 -4,4 h-28 a4,4 0 0,1 -4,-4 v-14 a4,4 0 0,1 4,-4 z" />
+    <path
+        android:fillColor="#C77DFF"
+        android:pathData="M52,66 h4 v12 h-4 z" />
+</vector>
